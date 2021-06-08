@@ -8,7 +8,7 @@ django-debug-toolbar==2.1
 fake-factory==9999.9.9
 Faker==2.0.4
 idna==2.8
-Pillow==6.2.1
+Pillow==8.2.0
 prompt-toolkit==2.0.9
 pycodestyle==2.5.0
 python-dateutil==2.8.1
